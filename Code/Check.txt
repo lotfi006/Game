@@ -1,0 +1,52 @@
+ //------tXt 1-----
+            if (tx1.Text == num1.ToString())
+            {
+                tx1.BackColor = Color.Green;
+            }
+            else if (tx1.Text == num2.ToString() || tx1.Text == num3.ToString() || tx1.Text == num4.ToString())
+            {
+                tx1.BackColor = Color.Yellow;
+            }
+            else
+            {
+                tx1.BackColor = Color.Red;
+            }
+            //------tXt 2-----
+            if (tx2.Text == num2.ToString())
+            {
+                tx2.BackColor = Color.Green;
+            }
+            else if (tx2.Text == num1.ToString() || tx2.Text == num3.ToString() || tx2.Text == num4.ToString())
+            {
+                tx2.BackColor = Color.Yellow;
+            }
+            else
+            {
+                tx2.BackColor = Color.Red;
+            }
+            //------tXt 3-----
+            if (tx3.Text == num3.ToString())
+            {
+                tx3.BackColor = Color.Green;
+            }
+            else if (tx3.Text == num1.ToString() || tx3.Text == num2.ToString() || tx3.Text == num4.ToString())
+            {
+                tx3.BackColor = Color.Yellow;
+            }
+            else
+            {
+                tx3.BackColor = Color.Red;
+            }
+            //------tXt 4-----
+            if (tx4.Text == num4.ToString())
+            {
+                tx4.BackColor = Color.Green;
+            }
+            else if (tx4.Text == num1.ToString() || tx4.Text == num2.ToString() || tx4.Text == num3.ToString())
+            {
+                tx4.BackColor = Color.Yellow;
+            }
+            else
+            {
+                tx4.BackColor = Color.Red;
+            }

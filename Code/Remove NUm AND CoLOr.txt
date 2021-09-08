@@ -1,0 +1,8 @@
+ public void DeleteNum()
+        {
+            foreach(TextBox item in this.groupBox2.Controls )
+            {
+                item.Text = " ";
+                item.BackColor = Color.White;
+            }
+        }

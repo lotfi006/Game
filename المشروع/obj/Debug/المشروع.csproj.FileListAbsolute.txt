@@ -1,0 +1,36 @@
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe.config
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.pdb
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csprojResolveAssemblyReference.cache
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Form1.resources
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Properties.Resources.resources
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csproj.GenerateResource.Cache
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.exe
+E:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.pdb
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe.config
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.exe
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.pdb
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.pdb
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csprojResolveAssemblyReference.cache
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Form1.resources
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Properties.Resources.resources
+F:\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csproj.GenerateResource.Cache
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe.config
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.exe
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.pdb
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.pdb
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csprojResolveAssemblyReference.cache
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Form1.resources
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Properties.Resources.resources
+E:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csproj.GenerateResource.Cache
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe.config
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.exe
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\bin\Debug\المشروع.pdb
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csprojResolveAssemblyReference.cache
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Form1.resources
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.Properties.Resources.resources
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.csproj.GenerateResource.Cache
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.exe
+F:\IT\IT 2nd Level\الترم الثاني\المشاريع\مشروع لعبة الرقم المخفي\المشروع\المشروع\obj\Debug\المشروع.pdb
